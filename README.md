@@ -15,7 +15,7 @@ pip install typing_extensions
 pip install -r requirements.txt
 ```
 
-Install specific version `torchvision`
+Install specific version `torchvision` (Reference: https://github.com/pytorch/pytorch/issues/30664#issuecomment-644874168)
 
 ```
 pip install torch===1.5.0 torchvision===0.6.0 -f https://download.pytorch.org/whl/torch_stable.html
