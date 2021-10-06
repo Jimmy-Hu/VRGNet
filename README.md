@@ -172,11 +172,11 @@ If needed, please download the results from  [NetDisk](https://pan.baidu.com/s/1
 ## Citation
 ```
 @inproceedings{wang2021rain,
-  title={From Rain Generation to Rain Removal},
-  author={Wang, Hong and Yue, Zongsheng and Xie, Qi and Zhao, Qian and Zheng, Yefeng and Meng, Deyu},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={14791--14801},
-  year={2021}
+    author={{Wang, Hong and Yue, Zongsheng and Xie, Qi and Zhao, Qian and Zheng, Yefeng and Meng, Deyu}},
+    title={From Rain Generation to Rain Removal},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={14791--14801},
+    year={2021}
 }
 ```
 
