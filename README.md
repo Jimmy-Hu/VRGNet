@@ -11,6 +11,8 @@ For the single image rain removal (SIRR) task, the performance of deep learning 
 ## Dependicies
 
 ```
+pip install typing_extensions
+pip install tensorboardX
 pip install -r requirements.txt --no-deps
 ```
 
