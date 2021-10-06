@@ -10,7 +10,9 @@ For the single image rain removal (SIRR) task, the performance of deep learning 
 
 ## Dependicies
 
-pip install -r requirements.txt
+```
+pip install -r requirements.txt --no-deps
+```
 
 ## Folder Directory 
 ```
