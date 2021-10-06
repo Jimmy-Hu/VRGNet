@@ -12,9 +12,15 @@ For the single image rain removal (SIRR) task, the performance of deep learning 
 
 ```
 pip install typing_extensions
-pip install tensorboardX
-pip install -r requirements.txt --no-deps
+pip install -r requirements.txt
 ```
+
+Install specific version `torchvision`
+
+```
+pip install torch===1.5.0 torchvision===0.6.0 -f https://download.pytorch.org/whl/torch_stable.html
+```
+
 
 ## Folder Directory 
 ```
